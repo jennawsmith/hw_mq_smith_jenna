@@ -23,3 +23,9 @@ summary {
 body {
     background-color: pink;
 }
+
+@media screen and (min-width: 675px) {
+    body {
+        background-color: blue;
+    }
+}
