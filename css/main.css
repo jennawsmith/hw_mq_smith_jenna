@@ -23,3 +23,9 @@ summary {
 body {
     background-color: purple;
 }
+
+@media all and (max-width: 1080px) {
+    body {
+        background-color: yellow;
+    }
+}
