@@ -23,3 +23,9 @@ summary {
 body {
     background-color: orange;
 }
+
+@media all and (min-width: 715px and max-width: 960px) {
+    body {
+        background-color: violet;
+    }
+}
